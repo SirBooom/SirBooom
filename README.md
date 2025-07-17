@@ -1,4 +1,4 @@
-# Hi there, I'm SirBooom 👋
+# Hi there, Mohammad 👋
 
 🎓 **Student in Applied Computer Science** at htw saar  
 _Previously Computer Science student at Saarland University_
@@ -22,7 +22,7 @@ _Previously Computer Science student at Saarland University_
 
 ## 🚀 Featured Project
 
-### Prog3projekt – Recipe Management System
+### Recipe Management System
 A full-featured recipe management application developed from scratch in a team setting.  
 - **Features:** Add, insert, remove, delete all, and filter recipes by multiple properties  
 - **User Experience:** Direct, intuitive interface for easy interaction  
