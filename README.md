@@ -1,4 +1,4 @@
-# Hi there, Mohammad 👋
+# Hi, I'm Mohammad 
 
 🎓 **Student in Applied Computer Science** at htw saar  
 _Previously Computer Science student at Saarland University_
