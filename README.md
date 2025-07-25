@@ -16,7 +16,7 @@ _Previously Computer Science student at Saarland University_
 
 ## 🧑‍💻 Language & Tool Proficiency
 
-![Skills Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','C','MIPS/RISC-V','SQL','Verilog/Chisel'],datasets:[{data:[8,7,7,6,4],backgroundColor:['%23ff9800','%233f51b5','%234caf50','%23ffd600','%238e24aa']}]}})
+![Skills Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','C','MIPS/RISC-V','SQL','Verilog/Chisel'],datasets:[{data:[8,7,7,5,3],backgroundColor:['%23ff9800','%233f51b5','%234caf50','%23ffd600','%238e24aa']}]}})
 
 ---
 
